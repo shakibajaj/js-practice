@@ -7,7 +7,7 @@ console.log(3 + 3)
 console.log("Hello")
 
 let name = "Ajaj"  // string type dataType
-let age = 18       // number type dataType
+let age = 35       // number type dataType
 let isLoggedIn = false  //boolean type dataType
 
 //  ~ PRIMITIVE DATATYPE ~
